@@ -1,0 +1,135 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Simple CS:GO Sticker Search | csgostickersearch.com</title>
+    <meta name="description"
+          content="CSGOStickerSearch is an intuitive tool that helps you search the steam market for CS:GO skins with rare stickers.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="manifest.json">
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#c21e41">
+    <meta name="theme-color" content="#c21e41">
+
+    <meta property="og:image" content="https://www.csgostickersearch.com/og-image.jpg">
+    <meta property="og:image:width" content="1293">
+    <meta property="og:image:height" content="677">
+    <meta property="og:description"
+          content="Search the steam community market for CS:GO skins with rare stickers. Intuitive, fast and easy to use.">
+    <meta property="og:title" content="Simple CS:GO Sticker Search">
+    <meta property="og:url" content="https://www.csgostickersearch.com">
+
+    <link rel="stylesheet" href="dist/css.css?nocache10">
+</head>
+<body>
+
+<nav class="navbar navbar-stickersearch navbar-fixed-top navbar-expand-sm">
+    <div class="container">
+        <div class="navbar-header">
+            <a href="/#START" class="anchor navbar-brand">CSGO STICKER SEARCH</a>
+        </div>
+
+        <!-- Links -->
+        <ul class="navbar-nav d-none d-md-flex">
+            <li class="nav-item nav-link">
+                <a class="anchor" href="/#SEARCH">Start searching</a>
+            </li>
+            <li class="nav-item nav-link">
+                <a class="anchor" href="/#FAQ">How it works</a>
+            </li>
+        </ul>
+
+        <ul class="navbar-nav navbar-right">
+            <li class="nav-item nav-link donate">
+                <a target="_blank"
+                   href="https://steamcommunity.com/tradeoffer/new/?partner=91850959&token=qx9Sw1_w"
+                   rel=“nofollow“><b>DONATE</b> (TradeLink)</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<!--- START CONTENT --->
+<!--- START CONTENT --->
+<!--- START CONTENT --->
+
+
+<div class="container">
+    <div class="row padbottom-50 padtop-25">
+        <div class="col-md-6 offset-md-3 cookies">
+            <h3>Cookies</h3>
+            <p>To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too.</p>
+
+            <h3>What are cookies?</h3>
+            <p>A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another.</p>
+
+            <h3>How do we use cookies?</h3>
+            <p>A number of our pages use cookies to remember:<br />
+                various settings of the search application<br />
+                if you have agreed (or not) to our use of cookies on this site</p>
+
+            <p>Enabling these cookies is not strictly necessary for the website to work but it will provide you with a better browsing experience. You can delete or block these cookies, but if you do that some features of this site may not work as intended.</p>
+            <p>The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.</p>
+
+            <h3>How to control cookies</h3>
+            <p>You can control and/or delete cookies as you wish – for details, see aboutcookies.org. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.</p>
+
+            <h3>Cookies for Google AdSense</h3>
+
+            <h4>Log Files</h4>
+
+            <p>As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.</p>
+
+            <h4>Cookies and Web Beacons</h4>
+
+            <p>We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.</p>
+
+            <p>We also use third party advertisements on csgostickersearch.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).</p>
+
+            <h4>DoubleClick DART cookies</h4>
+
+            <p>We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests (”interest based targeting”).</p>
+
+            <p>The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey).  DART uses “non personally identifiable information”.  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.</p>
+
+            <p>You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx</p>
+
+            <p>You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.</p>
+
+            <p>Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.</p>
+        </div>
+    </div>
+</div>
+
+<!--- END CONTENT --->
+<!--- END CONTENT --->
+<!--- END CONTENT --->
+
+<footer class="footer">
+    <div class="container-fluid">
+        <p style="text-align: center">
+            <span>&copy;2022 <a href="https://steamcommunity.com/id/vlxlt/" target="_blank"
+                                rel="nofollow">vlxlt</a></span>
+            <span><a href="" data-mail="fvzcyrfgvpxrefrnepu@tznvy.pbz">Contact</a></span>
+            <span><a href="//www.csgostickersearch.com/privacy" rel="nofollow">Privacy</a></span>
+            <span style="float:right"><a href="//www.csgostickersearch.com/imprint" rel="nofollow">Impressum</a></span>
+        </p>
+    </div>
+</footer>
+
+<script src="dist/main.js?nocache10"></script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-6947321284403713",
+        enable_page_level_ads: true
+    });
+</script>
+
+</body>
+</html>
